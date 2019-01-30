@@ -1,0 +1,10 @@
+<html>
+<head>
+<meta charset="utf-8"> 
+</head>
+<body> 
+<script>
+document.body.innerHTML = "Привет, Мир"; // Эта строчка добавляет html элемент.
+</script>
+</body>
+</html>
